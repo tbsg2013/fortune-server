@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+data/
+*.zip
+.edgeone/
+.edgeone-check/
+server/data/
